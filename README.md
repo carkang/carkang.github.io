@@ -1,22 +1,31 @@
-# 码志
+![twisted-can-bus-wiring-harness-high-low-green-yellow](https://github.com/user-attachments/assets/6fba3b45-7c46-43c6-84fa-1df9fafdd3d2)# 
 
 博客：<https://carkang.github.io>
 
 About automotive protocol technology blog
 
 1，SPI5
+
 2，SENT
+
 3，LINbus
+
 4，CAN
+
 5，CANFD
+
 6，CANXL
+
 7，Flexray
+
 8，Ethernet
-   a,10Base-T1
-   b,100Base-T1
-   c,1000Base-T1
-   d,100/1000Base-Tx
-9,Autosar
 
-
-
+       a,10Base-T1
+   
+       b,100Base-T1
+   
+       c,1000Base-T1
+   
+       d,100/1000Base-Tx
+	
+9, Autosar
