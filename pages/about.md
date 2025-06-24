@@ -1,41 +1,32 @@
----
-layout: page
-title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
-comments: true
-menu: 关于
-permalink: /about/
----
+![twisted-can-bus-wiring-harness-high-low-green-yellow](https://github.com/user-attachments/assets/6fba3b45-7c46-43c6-84fa-1df9fafdd3d2)# 
 
-我是马壮，码而生，码而立。
+博客：<https://carkang.github.io>
 
-仰慕「优雅编码的艺术」。
+About automotive protocol technology blog
 
-坚信熟能生巧，努力改变人生。
+1，SPI5
 
-## 联系
+2，SENT
 
-<ul>
-{% for website in site.data.social %}
-<li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
-{% endfor %}
-{% if site.url contains 'mazhuang.org' %}
-<li>
-微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
-</li>
-{% endif %}
-</ul>
+3，LINbus
 
+4，CAN
 
-## Skill Keywords
+5，CANFD
 
-{% for skill in site.data.skills %}
-### {{ skill.name }}
-<div class="btn-inline">
-{% for keyword in skill.keywords %}
-<button class="btn btn-outline" type="button">{{ keyword }}</button>
-{% endfor %}
-</div>
-{% endfor %}
+6，CANXL
+
+7，Flexray
+
+8，Ethernet
+
+       a,10Base-T1
+   
+       b,100Base-T1
+   
+       c,1000Base-T1
+   
+       d,100/1000Base-Tx
+	
+9, Autosar
+![image](https://github.com/user-attachments/assets/8382e479-b288-46e2-a67d-971a40de97cb)
