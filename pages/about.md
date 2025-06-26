@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: hello world
-keywords:carkang, automotive,protocol
+keywords: carkang, automotive,protocol
 comments: true
 menu: 关于
 permalink: /about/
