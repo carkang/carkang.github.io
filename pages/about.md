@@ -1,3 +1,12 @@
+---
+layout: page
+title: About
+description: hello world
+keywords:carkang, automotive,protocol
+comments: true
+menu: 关于
+permalink: /about/
+---
 ![twisted-can-bus-wiring-harness-high-low-green-yellow](https://github.com/user-attachments/assets/6fba3b45-7c46-43c6-84fa-1df9fafdd3d2)# 
 
 博客：<https://carkang.github.io>
